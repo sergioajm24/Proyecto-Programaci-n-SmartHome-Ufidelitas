@@ -1,0 +1,2 @@
+cerradura1: abierta
+cerradura2: cerrada
